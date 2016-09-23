@@ -1,1 +1,1 @@
-![alt text](https://github.com/guayabas/2DCFD/Preview.png)
+![](Preview.png)
